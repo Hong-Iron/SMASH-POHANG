@@ -1,0 +1,75 @@
+{
+  "code": "POHANG",
+  "title": "SMASH POHANG",
+  "school": "포항대",
+  "fullName": "포항대학교",
+  "campusName": "포항대학교",
+  "tagline": "포항대를 부셔 (시험기간 스트레스 해소)",
+  "description": "포항대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 포항대학교 3D 화면과 SMASH POHANG 제목",
+  "url": "https://hong-iron.github.io/SMASH-POHANG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 550161966
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.0841823,
+        129.4095852
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 경계 밖 숲속의 맨땅 자리라 확대한 항공사진에 서 있는 건물이 없고, 브이월드 기록에도 이름·층수·사용승인일이 하나도 없습니다."
+    },
+    {
+      "at": [
+        36.0842424,
+        129.4096329
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 경계 밖 숲속에 흐릿한 청록색 덮개 같은 것만 보이고, 반듯한 지붕 모서리나 그림자가 없으며 브이월드 기록도 비어 있습니다."
+    },
+    {
+      "at": [
+        36.0868128,
+        129.4108553
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 8동 자동차실습실 옆 주차장 자리라 확대한 사진에 흰 주차선과 나무만 보이고 지붕이 없습니다."
+    },
+    {
+      "at": [
+        36.0868761,
+        129.4107577
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 17번과 이어진 같은 주차 칸 자리라 사진에 주차선만 있고 건물이 없습니다."
+    }
+  ],
+  "look": {
+    "15동 기숙사": {
+      "style": "dorm",
+      "wall": "#773844",
+      "glass": "#354a66",
+      "frame": "#b3a8a8"
+    },
+    "14동 기숙사": {
+      "style": "brick",
+      "wall": "#5e3346",
+      "glass": "#3e5060",
+      "frame": "#a88b8d",
+      "roof": "#a88d90",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
